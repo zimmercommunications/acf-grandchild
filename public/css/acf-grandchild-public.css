@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .section-background {
+   backface-visibility: hidden !important;
+}
+
+.section-background-image {
+   backface-visibility: hidden !important;
+}
+
+.footer-widgets * {
+   backface-visibility: hidden !important;
+}
