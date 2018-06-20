@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       ACF Grandchild
  * Plugin URI:        https://github.com/nboaldin/acf-grandchild
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Add CSS and/or JS to ACF site.
  * Version:           1.0.0
  * Author:            Nathan Boaldin
  * Author URI:        https://github.com/nboaldin
