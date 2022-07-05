@@ -1,0 +1,11 @@
+{
+  "name": "zimmercommunications/acf-grandchild",
+  "description": "ACF Grandchild plugin from megaphone",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Sean Patton",
+      "email": "spatton@mailzimmer.com"
+    }
+  ]
+}
